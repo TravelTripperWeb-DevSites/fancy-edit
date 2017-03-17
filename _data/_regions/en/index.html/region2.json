@@ -1,1 +1,12 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML2</p>","rendered_height":500}]
+[
+	{
+		"_template": "href",
+		"url": "qwe",
+		"name": "werty"
+	},
+	{
+		"_template": "html",
+		"content": "<p>Sample HTML2</p>\n<p>&nbsp;</p>\n<p><a href=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_80/media/2017-03-17-105138/AWSBilling.pdf\"><img src=\"assets/pdf_icon.png\" width=\"75\" height=\"75\" /></a></p>",
+		"rendered_height": 500
+	}
+]
